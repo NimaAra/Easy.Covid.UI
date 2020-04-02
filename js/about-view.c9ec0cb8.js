@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about-view"],{f820:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",[t._v("This is an about page")])},c=[],u=e("9ab4"),i=e("60a3"),r=function(t){function n(){return null!==t&&t.apply(this,arguments)||this}return Object(u["d"])(n,t),n=Object(u["c"])([i["a"]],n),n}(i["c"]),s=r,o=s,l=e("2877"),p=Object(l["a"])(o,a,c,!1,null,"576c5032",null);n["default"]=p.exports}}]);
+//# sourceMappingURL=about-view.c9ec0cb8.js.map
